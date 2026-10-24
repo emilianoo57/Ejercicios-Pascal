@@ -1,0 +1,2 @@
+10
+Esta Oracion Capitaliza La Primera Letra De Todas Sus Palabras.

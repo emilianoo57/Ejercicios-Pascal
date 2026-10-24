@@ -1,0 +1,20 @@
+-------------------------------------
+Ingrese la cantidad de palabras máxima de la oración: Ingrese la oración: -------------------------------------
+ANÁLISIS DE LA ORACIÓN
+-------------------------------------
+¿Supera la cantidad máxima de palabras?
+NO.
+-------------------------------------
+¿La oración es nula?
+NO (Largo promedio de palabra: 4.00)
+-------------------------------------
+Ocurrencias de vocales:
+A: 3
+E: 2
+I: 1
+O: 2
+U: 1
+-------------------------------------
+Ocurrencias de consonantes:
+Consonantes: 7
+-------------------------------------
