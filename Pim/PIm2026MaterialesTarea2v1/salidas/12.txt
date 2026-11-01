@@ -1,0 +1,151 @@
+-------------------
+PaScAlAbRaS cRuZaDaS
+-------------------
+Seleccione nivel (número del 1 al 5):
+-------------------
+1. casa
+2. mar
+3. sol
+4. dos
+5. luna
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+2 ■ □ □ □ □ ■ ■ ■ ■ 
+3 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+4 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+5 □ □ □ ■ ■ ■ ■ ■ ■ 
+6 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+8 ■ ■ ■ ■ □ □ □ □ ■ 
+9 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Verificar funcionalidades individualmente
+-------------------
+MENU DE FUNCIONALIDADES EXTRA
+-------------------
+1. Ver Banco en detalle
+2. Ver Casilla en detalle
+3. Ver Tramos
+4. Ver mapa de multiplicidades
+5. Verificar sonIgualesPalabras
+6. Verificar buscarPalabraEnBanco
+7. Verificar buscarTramoPorIdBanco
+0. Volver a la partida
+buscarPalabraEnBanco
+Ingrese palabra (terminada en punto):
+Encontré:  true
+Número de lista: 5
+Presione enter para continuar...-------------------
+MENU DE FUNCIONALIDADES EXTRA
+-------------------
+1. Ver Banco en detalle
+2. Ver Casilla en detalle
+3. Ver Tramos
+4. Ver mapa de multiplicidades
+5. Verificar sonIgualesPalabras
+6. Verificar buscarPalabraEnBanco
+7. Verificar buscarTramoPorIdBanco
+0. Volver a la partida
+buscarPalabraEnBanco
+Ingrese palabra (terminada en punto):
+Encontré:  true
+Número de lista: 4
+Presione enter para continuar...-------------------
+MENU DE FUNCIONALIDADES EXTRA
+-------------------
+1. Ver Banco en detalle
+2. Ver Casilla en detalle
+3. Ver Tramos
+4. Ver mapa de multiplicidades
+5. Verificar sonIgualesPalabras
+6. Verificar buscarPalabraEnBanco
+7. Verificar buscarTramoPorIdBanco
+0. Volver a la partida
+buscarPalabraEnBanco
+Ingrese palabra (terminada en punto):
+Encontré: false
+Presione enter para continuar...-------------------
+MENU DE FUNCIONALIDADES EXTRA
+-------------------
+1. Ver Banco en detalle
+2. Ver Casilla en detalle
+3. Ver Tramos
+4. Ver mapa de multiplicidades
+5. Verificar sonIgualesPalabras
+6. Verificar buscarPalabraEnBanco
+7. Verificar buscarTramoPorIdBanco
+0. Volver a la partida
+buscarPalabraEnBanco
+Ingrese palabra (terminada en punto):
+Encontré:  true
+Número de lista: 2
+Presione enter para continuar...-------------------
+MENU DE FUNCIONALIDADES EXTRA
+-------------------
+1. Ver Banco en detalle
+2. Ver Casilla en detalle
+3. Ver Tramos
+4. Ver mapa de multiplicidades
+5. Verificar sonIgualesPalabras
+6. Verificar buscarPalabraEnBanco
+7. Verificar buscarTramoPorIdBanco
+0. Volver a la partida
+buscarPalabraEnBanco
+Ingrese palabra (terminada en punto):
+Encontré:  true
+Número de lista: 3
+Presione enter para continuar...-------------------
+MENU DE FUNCIONALIDADES EXTRA
+-------------------
+1. Ver Banco en detalle
+2. Ver Casilla en detalle
+3. Ver Tramos
+4. Ver mapa de multiplicidades
+5. Verificar sonIgualesPalabras
+6. Verificar buscarPalabraEnBanco
+7. Verificar buscarTramoPorIdBanco
+0. Volver a la partida
+buscarPalabraEnBanco
+Ingrese palabra (terminada en punto):
+Encontré: false
+Presione enter para continuar...-------------------
+MENU DE FUNCIONALIDADES EXTRA
+-------------------
+1. Ver Banco en detalle
+2. Ver Casilla en detalle
+3. Ver Tramos
+4. Ver mapa de multiplicidades
+5. Verificar sonIgualesPalabras
+6. Verificar buscarPalabraEnBanco
+7. Verificar buscarTramoPorIdBanco
+0. Volver a la partida
+Presione enter para continuar...-------------------
+1. casa
+2. mar
+3. sol
+4. dos
+5. luna
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+2 ■ □ □ □ □ ■ ■ ■ ■ 
+3 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+4 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+5 □ □ □ ■ ■ ■ ■ ■ ■ 
+6 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+8 ■ ■ ■ ■ □ □ □ □ ■ 
+9 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Chau!...

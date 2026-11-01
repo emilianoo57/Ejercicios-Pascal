@@ -1,0 +1,43 @@
+4
+1
+H 1 1
+write.
+1
+V 1 1
+while.
+1
+H 3 1
+if.
+1
+H 5 1
+else.
+1
+V 1 5
+end.
+1
+V 4 4
+record.
+1
+H 6 4
+char.
+1
+V 1 9
+variable.
+1
+H 3 7
+var.
+1
+H 8 2
+for.
+1
+H 9 4
+do.
+1
+V 6 7
+read.
+1
+H 8 6
+case.
+3
+
+0

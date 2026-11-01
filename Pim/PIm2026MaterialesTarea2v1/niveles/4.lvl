@@ -1,0 +1,15 @@
+13
+---
+1,H,1,1,write.
+2,H,3,1,if.
+3,H,3,7,var.
+4,H,5,1,else.
+5,H,6,4,char.
+6,H,8,2,for.
+7,H,8,6,case.
+8,H,9,4,do.
+9,V,1,1,while.
+10,V,1,5,end.
+11,V,1,9,variable.
+12,V,4,4,record.
+13,V,6,7,read.

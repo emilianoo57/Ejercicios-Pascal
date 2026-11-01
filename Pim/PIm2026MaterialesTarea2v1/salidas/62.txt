@@ -1,0 +1,524 @@
+-------------------
+PaScAlAbRaS cRuZaDaS
+-------------------
+Seleccione nivel (número del 1 al 5):
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 □ □ □ □ □ ■ ■ ■ □ 
+2 □ ■ ■ ■ □ ■ ■ ■ □ 
+3 □ □ ■ ■ □ ■ □ □ □ 
+4 □ ■ ■ □ ■ ■ ■ ■ □ 
+5 □ □ □ □ ■ ■ ■ ■ □ 
+6 ■ ■ ■ □ □ □ □ ■ □ 
+7 ■ ■ ■ □ ■ ■ □ ■ □ 
+8 ■ □ □ □ ■ □ □ □ □ 
+9 ■ ■ ■ □ □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ □ 
+2 □ ■ ■ ■ □ ■ ■ ■ □ 
+3 □ □ ■ ■ □ ■ □ □ □ 
+4 □ ■ ■ □ ■ ■ ■ ■ □ 
+5 □ □ □ □ ■ ■ ■ ■ □ 
+6 ■ ■ ■ □ □ □ □ ■ □ 
+7 ■ ■ ■ □ ■ ■ □ ■ □ 
+8 ■ □ □ □ ■ □ □ □ □ 
+9 ■ ■ ■ □ □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ □ 
+2 h ■ ■ ■ □ ■ ■ ■ □ 
+3 i □ ■ ■ □ ■ □ □ □ 
+4 l ■ ■ □ ■ ■ ■ ■ □ 
+5 e □ □ □ ■ ■ ■ ■ □ 
+6 ■ ■ ■ □ □ □ □ ■ □ 
+7 ■ ■ ■ □ ■ ■ □ ■ □ 
+8 ■ □ □ □ ■ □ □ □ □ 
+9 ■ ■ ■ □ □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ □ 
+2 h ■ ■ ■ □ ■ ■ ■ □ 
+3 i f ■ ■ □ ■ □ □ □ 
+4 l ■ ■ □ ■ ■ ■ ■ □ 
+5 e □ □ □ ■ ■ ■ ■ □ 
+6 ■ ■ ■ □ □ □ □ ■ □ 
+7 ■ ■ ■ □ ■ ■ □ ■ □ 
+8 ■ □ □ □ ■ □ □ □ □ 
+9 ■ ■ ■ □ □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ □ 
+2 h ■ ■ ■ □ ■ ■ ■ □ 
+3 i f ■ ■ □ ■ □ □ □ 
+4 l ■ ■ □ ■ ■ ■ ■ □ 
+5 e l s e ■ ■ ■ ■ □ 
+6 ■ ■ ■ □ □ □ □ ■ □ 
+7 ■ ■ ■ □ ■ ■ □ ■ □ 
+8 ■ □ □ □ ■ □ □ □ □ 
+9 ■ ■ ■ □ □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ □ 
+2 h ■ ■ ■ n ■ ■ ■ □ 
+3 i f ■ ■ d ■ □ □ □ 
+4 l ■ ■ □ ■ ■ ■ ■ □ 
+5 e l s e ■ ■ ■ ■ □ 
+6 ■ ■ ■ □ □ □ □ ■ □ 
+7 ■ ■ ■ □ ■ ■ □ ■ □ 
+8 ■ □ □ □ ■ □ □ □ □ 
+9 ■ ■ ■ □ □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ □ 
+2 h ■ ■ ■ n ■ ■ ■ □ 
+3 i f ■ ■ d ■ □ □ □ 
+4 l ■ ■ r ■ ■ ■ ■ □ 
+5 e l s e ■ ■ ■ ■ □ 
+6 ■ ■ ■ c □ □ □ ■ □ 
+7 ■ ■ ■ o ■ ■ □ ■ □ 
+8 ■ □ □ r ■ □ □ □ □ 
+9 ■ ■ ■ d □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ □ 
+2 h ■ ■ ■ n ■ ■ ■ □ 
+3 i f ■ ■ d ■ □ □ □ 
+4 l ■ ■ r ■ ■ ■ ■ □ 
+5 e l s e ■ ■ ■ ■ □ 
+6 ■ ■ ■ c h a r ■ □ 
+7 ■ ■ ■ o ■ ■ □ ■ □ 
+8 ■ □ □ r ■ □ □ □ □ 
+9 ■ ■ ■ d □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ v 
+2 h ■ ■ ■ n ■ ■ ■ a 
+3 i f ■ ■ d ■ □ □ r 
+4 l ■ ■ r ■ ■ ■ ■ i 
+5 e l s e ■ ■ ■ ■ a 
+6 ■ ■ ■ c h a r ■ b 
+7 ■ ■ ■ o ■ ■ □ ■ l 
+8 ■ □ □ r ■ □ □ □ e 
+9 ■ ■ ■ d □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ v 
+2 h ■ ■ ■ n ■ ■ ■ a 
+3 i f ■ ■ d ■ v a r 
+4 l ■ ■ r ■ ■ ■ ■ i 
+5 e l s e ■ ■ ■ ■ a 
+6 ■ ■ ■ c h a r ■ b 
+7 ■ ■ ■ o ■ ■ □ ■ l 
+8 ■ □ □ r ■ □ □ □ e 
+9 ■ ■ ■ d □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ v 
+2 h ■ ■ ■ n ■ ■ ■ a 
+3 i f ■ ■ d ■ v a r 
+4 l ■ ■ r ■ ■ ■ ■ i 
+5 e l s e ■ ■ ■ ■ a 
+6 ■ ■ ■ c h a r ■ b 
+7 ■ ■ ■ o ■ ■ □ ■ l 
+8 ■ f o r ■ □ □ □ e 
+9 ■ ■ ■ d □ ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ v 
+2 h ■ ■ ■ n ■ ■ ■ a 
+3 i f ■ ■ d ■ v a r 
+4 l ■ ■ r ■ ■ ■ ■ i 
+5 e l s e ■ ■ ■ ■ a 
+6 ■ ■ ■ c h a r ■ b 
+7 ■ ■ ■ o ■ ■ □ ■ l 
+8 ■ f o r ■ □ □ □ e 
+9 ■ ■ ■ d o ■ □ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ v 
+2 h ■ ■ ■ n ■ ■ ■ a 
+3 i f ■ ■ d ■ v a r 
+4 l ■ ■ r ■ ■ ■ ■ i 
+5 e l s e ■ ■ ■ ■ a 
+6 ■ ■ ■ c h a r ■ b 
+7 ■ ■ ■ o ■ ■ e ■ l 
+8 ■ f o r ■ □ a □ e 
+9 ■ ■ ■ d o ■ d ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ v 
+2 h ■ ■ ■ n ■ ■ ■ a 
+3 i f ■ ■ d ■ v a r 
+4 l ■ ■ r ■ ■ ■ ■ i 
+5 e l s e ■ ■ ■ ■ a 
+6 ■ ■ ■ c h a r ■ b 
+7 ■ ■ ■ o ■ ■ e ■ l 
+8 ■ f o r ■ c a s e 
+9 ■ ■ ■ d o ■ d ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Calcular puntaje
+Puntos: 41
+Presione enter para continuar...-------------------
+1. write
+2. if
+3. var
+4. else
+5. char
+6. for
+7. case
+8. do
+9. while
+10. end
+11. variable
+12. record
+13. read
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 w r i t e ■ ■ ■ v 
+2 h ■ ■ ■ n ■ ■ ■ a 
+3 i f ■ ■ d ■ v a r 
+4 l ■ ■ r ■ ■ ■ ■ i 
+5 e l s e ■ ■ ■ ■ a 
+6 ■ ■ ■ c h a r ■ b 
+7 ■ ■ ■ o ■ ■ e ■ l 
+8 ■ f o r ■ c a s e 
+9 ■ ■ ■ d o ■ d ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Chau!...

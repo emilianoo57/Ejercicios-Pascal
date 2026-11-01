@@ -1,0 +1,162 @@
+-------------------
+PaScAlAbRaS cRuZaDaS
+-------------------
+Seleccione nivel (número del 1 al 5):
+-------------------
+1. casa
+2. mar
+3. sol
+4. dos
+5. luna
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+2 ■ □ □ □ □ ■ ■ ■ ■ 
+3 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+4 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+5 □ □ □ ■ ■ ■ ■ ■ ■ 
+6 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+8 ■ ■ ■ ■ □ □ □ □ ■ 
+9 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. casa
+2. mar
+3. sol
+4. dos
+5. luna
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+2 ■ l u n a ■ ■ ■ ■ 
+3 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+4 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+5 □ □ □ ■ ■ ■ ■ ■ ■ 
+6 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+8 ■ ■ ■ ■ □ □ □ □ ■ 
+9 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+No se pudo insertar
+-------------------
+1. casa
+2. mar
+3. sol
+4. dos
+5. luna
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+2 ■ l u n a ■ ■ ■ ■ 
+3 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+4 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+5 □ □ □ ■ ■ ■ ■ ■ ■ 
+6 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+8 ■ ■ ■ ■ □ □ □ □ ■ 
+9 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Eliminar palabra
+Ingrese número de lista de la palabra a eliminar
+-------------------
+1. casa
+2. mar
+3. sol
+4. dos
+5. luna
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+2 ■ □ □ □ □ ■ ■ ■ ■ 
+3 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+4 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+5 □ □ □ ■ ■ ■ ■ ■ ■ 
+6 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+8 ■ ■ ■ ■ □ □ □ □ ■ 
+9 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. casa
+2. mar
+3. sol
+4. dos
+5. luna
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+2 ■ c a s a ■ ■ ■ ■ 
+3 ■ ■ □ ■ ■ ■ ■ ■ ■ 
+4 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+5 □ □ □ ■ ■ ■ ■ ■ ■ 
+6 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+8 ■ ■ ■ ■ □ □ □ □ ■ 
+9 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Insertar palabra:
+Ingrese orientación (H/V), numero de fila y numero de columna separada por espacios:
+Ejemplo: H 3 5
+Ingrese palabra (terminada en punto): 
+-------------------
+1. casa
+2. mar
+3. sol
+4. dos
+5. luna
+-------------------
+  1 2 3 4 5 6 7 8 9 
+1 ■ ■ m ■ ■ ■ ■ ■ ■ 
+2 ■ c a s a ■ ■ ■ ■ 
+3 ■ ■ r ■ ■ ■ ■ ■ ■ 
+4 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+5 □ □ □ ■ ■ ■ ■ ■ ■ 
+6 ■ □ ■ ■ ■ ■ ■ ■ ■ 
+7 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+8 ■ ■ ■ ■ □ □ □ □ ■ 
+9 ■ ■ ■ ■ ■ ■ ■ ■ ■ 
+-------------------
+1. Insertar palabra
+2. Eliminar palabra
+3. Calcular puntaje
+4. Verificar funcionalidades individualmente
+0. Salir
+Chau!...

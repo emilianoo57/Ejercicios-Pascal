@@ -1,0 +1,6 @@
+program hanoi;
+
+
+
+begin
+end.
