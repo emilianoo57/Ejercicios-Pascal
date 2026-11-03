@@ -34,7 +34,7 @@ end;
 
 procedure insertarPalabra(pos: TPosicion; ori: TOrientacion; palabra: TPalabra; var partida : TPartida);
 
-procedure modificarTramo(pos: TPosicion; ori: TOrientacion; palabra: TPalabra; var partida : TPartida; idBanco: integer);
+procedure modificarTramo(ori: TOrientacion; palabra: TPalabra; var partida : TPartida; idBanco: integer);
 
 begin
     with partida do
@@ -51,10 +51,9 @@ begin
                         arreglo[cantidad].ocupado:= true;
                         arreglo[cantidad].idBanco := idBanco
                     end;
-                end
-                else cantidad := cantidad - 1
+                end;
+                cantidad := cantidad - 1
             end;
-                    writeln('se ha completado e lwhile');
         end;
     end;
 end;
@@ -88,8 +87,15 @@ end;
 
 
 procedure buscarTramoPorIdBanco(idBanco: integer; tram: TTramos; var encontre: boolean; var idTramo: integer);
-begin
 
+begin
+ while (tram.cantidad > 0) and (not encontre) do 
+    begin
+        if tram[tram.cantidad].ocupado = true then encontre:= tram[tram.cantidad].idBanco = idBanco;
+        if not encontre then tram.cantidad:= tram.cantidad - 1
+    end;
+
+    if encontre then idBanco:= tram.cantidad
 end;
 
 procedure eliminarPalabra(idBanco: integer; var partida : TPartida);
