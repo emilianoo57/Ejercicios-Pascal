@@ -55,7 +55,21 @@ MENU DE FUNCIONALIDADES EXTRA
 buscarPalabraEnBanco
 Ingrese palabra (terminada en punto):
 Encontré:  true
-Número de lista: 5
+Número de lista: 4
+Presione enter para continuar...-------------------
+MENU DE FUNCIONALIDADES EXTRA
+-------------------
+1. Ver Banco en detalle
+2. Ver Casilla en detalle
+3. Ver Tramos
+4. Ver mapa de multiplicidades
+5. Verificar sonIgualesPalabras
+6. Verificar buscarPalabraEnBanco
+7. Verificar buscarTramoPorIdBanco
+0. Volver a la partida
+buscarPalabraEnBanco
+Ingrese palabra (terminada en punto):
+Encontré: false
 Presione enter para continuar...-------------------
 MENU DE FUNCIONALIDADES EXTRA
 -------------------
@@ -70,7 +84,7 @@ MENU DE FUNCIONALIDADES EXTRA
 buscarPalabraEnBanco
 Ingrese palabra (terminada en punto):
 Encontré:  true
-Número de lista: 5
+Número de lista: 2
 Presione enter para continuar...-------------------
 MENU DE FUNCIONALIDADES EXTRA
 -------------------
@@ -85,7 +99,7 @@ MENU DE FUNCIONALIDADES EXTRA
 buscarPalabraEnBanco
 Ingrese palabra (terminada en punto):
 Encontré:  true
-Número de lista: 5
+Número de lista: 3
 Presione enter para continuar...-------------------
 MENU DE FUNCIONALIDADES EXTRA
 -------------------
@@ -99,23 +113,7 @@ MENU DE FUNCIONALIDADES EXTRA
 0. Volver a la partida
 buscarPalabraEnBanco
 Ingrese palabra (terminada en punto):
-Encontré:  true
-Número de lista: 5
-Presione enter para continuar...-------------------
-MENU DE FUNCIONALIDADES EXTRA
--------------------
-1. Ver Banco en detalle
-2. Ver Casilla en detalle
-3. Ver Tramos
-4. Ver mapa de multiplicidades
-5. Verificar sonIgualesPalabras
-6. Verificar buscarPalabraEnBanco
-7. Verificar buscarTramoPorIdBanco
-0. Volver a la partida
-buscarPalabraEnBanco
-Ingrese palabra (terminada en punto):
-Encontré:  true
-Número de lista: 5
+Encontré: false
 Presione enter para continuar...-------------------
 MENU DE FUNCIONALIDADES EXTRA
 -------------------

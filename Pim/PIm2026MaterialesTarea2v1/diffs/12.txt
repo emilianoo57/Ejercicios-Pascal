@@ -1,0 +1,22 @@
+58c58
+< Número de lista: 5
+---
+> Número de lista: 4
+72,73c72
+< Encontré:  true
+< Número de lista: 5
+---
+> Encontré: false
+88c87
+< Número de lista: 5
+---
+> Número de lista: 2
+103c102
+< Número de lista: 5
+---
+> Número de lista: 3
+117,118c116
+< Encontré:  true
+< Número de lista: 5
+---
+> Encontré: false

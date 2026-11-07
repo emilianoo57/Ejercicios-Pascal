@@ -1,0 +1,156 @@
+250d249
+< La palabra ya está insertada
+272c271
+< 6 ■ ■ ■ c □ □ □ ■ □ 
+---
+> 6 ■ ■ ■ c h a r ■ □ 
+286d284
+< La palabra ya está insertada
+303,310c301,308
+< 1 w r i t e ■ ■ ■ □ 
+< 2 h ■ ■ ■ n ■ ■ ■ □ 
+< 3 i f ■ ■ d ■ □ □ □ 
+< 4 l ■ ■ r ■ ■ ■ ■ □ 
+< 5 e l s e ■ ■ ■ ■ □ 
+< 6 ■ ■ ■ c □ □ □ ■ □ 
+< 7 ■ ■ ■ o ■ ■ □ ■ □ 
+< 8 ■ □ □ r ■ □ □ □ □ 
+---
+> 1 w r i t e ■ ■ ■ v 
+> 2 h ■ ■ ■ n ■ ■ ■ a 
+> 3 i f ■ ■ d ■ □ □ r 
+> 4 l ■ ■ r ■ ■ ■ ■ i 
+> 5 e l s e ■ ■ ■ ■ a 
+> 6 ■ ■ ■ c h a r ■ b 
+> 7 ■ ■ ■ o ■ ■ □ ■ l 
+> 8 ■ □ □ r ■ □ □ □ e 
+322d319
+< La palabra ya está insertada
+339,346c336,343
+< 1 w r i t e ■ ■ ■ □ 
+< 2 h ■ ■ ■ n ■ ■ ■ □ 
+< 3 i f ■ ■ d ■ □ □ □ 
+< 4 l ■ ■ r ■ ■ ■ ■ □ 
+< 5 e l s e ■ ■ ■ ■ □ 
+< 6 ■ ■ ■ c □ □ □ ■ □ 
+< 7 ■ ■ ■ o ■ ■ □ ■ □ 
+< 8 ■ □ □ r ■ □ □ □ □ 
+---
+> 1 w r i t e ■ ■ ■ v 
+> 2 h ■ ■ ■ n ■ ■ ■ a 
+> 3 i f ■ ■ d ■ v a r 
+> 4 l ■ ■ r ■ ■ ■ ■ i 
+> 5 e l s e ■ ■ ■ ■ a 
+> 6 ■ ■ ■ c h a r ■ b 
+> 7 ■ ■ ■ o ■ ■ □ ■ l 
+> 8 ■ □ □ r ■ □ □ □ e 
+358d354
+< La palabra ya está insertada
+375,382c371,378
+< 1 w r i t e ■ ■ ■ □ 
+< 2 h ■ ■ ■ n ■ ■ ■ □ 
+< 3 i f ■ ■ d ■ □ □ □ 
+< 4 l ■ ■ r ■ ■ ■ ■ □ 
+< 5 e l s e ■ ■ ■ ■ □ 
+< 6 ■ ■ ■ c □ □ □ ■ □ 
+< 7 ■ ■ ■ o ■ ■ □ ■ □ 
+< 8 ■ □ □ r ■ □ □ □ □ 
+---
+> 1 w r i t e ■ ■ ■ v 
+> 2 h ■ ■ ■ n ■ ■ ■ a 
+> 3 i f ■ ■ d ■ v a r 
+> 4 l ■ ■ r ■ ■ ■ ■ i 
+> 5 e l s e ■ ■ ■ ■ a 
+> 6 ■ ■ ■ c h a r ■ b 
+> 7 ■ ■ ■ o ■ ■ □ ■ l 
+> 8 ■ f o r ■ □ □ □ e 
+394d389
+< La palabra ya está insertada
+411,419c406,414
+< 1 w r i t e ■ ■ ■ □ 
+< 2 h ■ ■ ■ n ■ ■ ■ □ 
+< 3 i f ■ ■ d ■ □ □ □ 
+< 4 l ■ ■ r ■ ■ ■ ■ □ 
+< 5 e l s e ■ ■ ■ ■ □ 
+< 6 ■ ■ ■ c □ □ □ ■ □ 
+< 7 ■ ■ ■ o ■ ■ □ ■ □ 
+< 8 ■ □ □ r ■ □ □ □ □ 
+< 9 ■ ■ ■ d □ ■ □ ■ ■ 
+---
+> 1 w r i t e ■ ■ ■ v 
+> 2 h ■ ■ ■ n ■ ■ ■ a 
+> 3 i f ■ ■ d ■ v a r 
+> 4 l ■ ■ r ■ ■ ■ ■ i 
+> 5 e l s e ■ ■ ■ ■ a 
+> 6 ■ ■ ■ c h a r ■ b 
+> 7 ■ ■ ■ o ■ ■ □ ■ l 
+> 8 ■ f o r ■ □ □ □ e 
+> 9 ■ ■ ■ d o ■ □ ■ ■ 
+430d424
+< La palabra ya está insertada
+447,455c441,449
+< 1 w r i t e ■ ■ ■ □ 
+< 2 h ■ ■ ■ n ■ ■ ■ □ 
+< 3 i f ■ ■ d ■ □ □ □ 
+< 4 l ■ ■ r ■ ■ ■ ■ □ 
+< 5 e l s e ■ ■ ■ ■ □ 
+< 6 ■ ■ ■ c □ □ □ ■ □ 
+< 7 ■ ■ ■ o ■ ■ □ ■ □ 
+< 8 ■ □ □ r ■ □ □ □ □ 
+< 9 ■ ■ ■ d □ ■ □ ■ ■ 
+---
+> 1 w r i t e ■ ■ ■ v 
+> 2 h ■ ■ ■ n ■ ■ ■ a 
+> 3 i f ■ ■ d ■ v a r 
+> 4 l ■ ■ r ■ ■ ■ ■ i 
+> 5 e l s e ■ ■ ■ ■ a 
+> 6 ■ ■ ■ c h a r ■ b 
+> 7 ■ ■ ■ o ■ ■ e ■ l 
+> 8 ■ f o r ■ □ a □ e 
+> 9 ■ ■ ■ d o ■ d ■ ■ 
+466d459
+< La palabra ya está insertada
+483,491c476,484
+< 1 w r i t e ■ ■ ■ □ 
+< 2 h ■ ■ ■ n ■ ■ ■ □ 
+< 3 i f ■ ■ d ■ □ □ □ 
+< 4 l ■ ■ r ■ ■ ■ ■ □ 
+< 5 e l s e ■ ■ ■ ■ □ 
+< 6 ■ ■ ■ c □ □ □ ■ □ 
+< 7 ■ ■ ■ o ■ ■ □ ■ □ 
+< 8 ■ □ □ r ■ □ □ □ □ 
+< 9 ■ ■ ■ d □ ■ □ ■ ■ 
+---
+> 1 w r i t e ■ ■ ■ v 
+> 2 h ■ ■ ■ n ■ ■ ■ a 
+> 3 i f ■ ■ d ■ v a r 
+> 4 l ■ ■ r ■ ■ ■ ■ i 
+> 5 e l s e ■ ■ ■ ■ a 
+> 6 ■ ■ ■ c h a r ■ b 
+> 7 ■ ■ ■ o ■ ■ e ■ l 
+> 8 ■ f o r ■ c a s e 
+> 9 ■ ■ ■ d o ■ d ■ ■ 
+499c492
+< Puntos: 20
+---
+> Puntos: 41
+516,524c509,517
+< 1 w r i t e ■ ■ ■ □ 
+< 2 h ■ ■ ■ n ■ ■ ■ □ 
+< 3 i f ■ ■ d ■ □ □ □ 
+< 4 l ■ ■ r ■ ■ ■ ■ □ 
+< 5 e l s e ■ ■ ■ ■ □ 
+< 6 ■ ■ ■ c □ □ □ ■ □ 
+< 7 ■ ■ ■ o ■ ■ □ ■ □ 
+< 8 ■ □ □ r ■ □ □ □ □ 
+< 9 ■ ■ ■ d □ ■ □ ■ ■ 
+---
+> 1 w r i t e ■ ■ ■ v 
+> 2 h ■ ■ ■ n ■ ■ ■ a 
+> 3 i f ■ ■ d ■ v a r 
+> 4 l ■ ■ r ■ ■ ■ ■ i 
+> 5 e l s e ■ ■ ■ ■ a 
+> 6 ■ ■ ■ c h a r ■ b 
+> 7 ■ ■ ■ o ■ ■ e ■ l 
+> 8 ■ f o r ■ c a s e 
+> 9 ■ ■ ■ d o ■ d ■ ■ 
